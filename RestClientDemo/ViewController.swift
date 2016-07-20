@@ -65,6 +65,8 @@ class ViewController: UIViewController {
         }
         */
         
+        
+        /*
         Alamofire.request(.DELETE, "http://localhost:3000/api/Categories/2").responseJSON{
             response in
             
@@ -77,9 +79,8 @@ class ViewController: UIViewController {
             }else{
                 print("FAIL!")
             }
-            
-            
         }
+        */
         
         
  
