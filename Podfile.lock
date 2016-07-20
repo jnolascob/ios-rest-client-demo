@@ -1,0 +1,18 @@
+PODS:
+  - Alamofire (3.4.1)
+  - GuillotineMenu (2.0.2)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.4)
+  - GuillotineMenu (~> 2.0.2)
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  GuillotineMenu: 91ee3c223f42b19ee3f0da85a2645b055755c1f5
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+PODFILE CHECKSUM: 0a0673fc83dd9bd03d498b44d3612014de00d515
+
+COCOAPODS: 1.0.1
